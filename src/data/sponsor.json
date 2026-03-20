@@ -34,7 +34,15 @@
 			"title_en": "",
 			"description_zh": "ITSA 為教育部智慧創新跨域人才培育計畫，協助進行數位人才之培育，聚焦於「智慧感知與互動體驗」、「大數據分析與資料科學」、「文化創意與多媒體」、「電商金融科技」四大類新興數位軟體之人才培育，以及以開源模式培養雲端運算系統軟體、嵌入式系統軟體及軟體工程人才，以補足我國各產業在相關數位應用人才需求之缺口，擴大國內各產業晉用數位軟體人才的來源。",
 			"description_en": "",
-			"url": ""
+			"url": "https://www.itsa.org.tw/"
+		},
+		{
+			"logo": "ais3.svg",
+			"title_zh": "教育部跨領域資通訊安全人才培育計畫",
+			"title_en": "",
+			"description_zh": "為因應國家發展之資安人力需求，配合國家科技施政目標，教育部資安人才培育計畫，規劃以需求為導向，鏈結產學資安教學能量，建構跨域實務場域之實務教學應用環境；促進資安扎根，辦理 AIS Junior 高中資安暑期課程以及高中種子師資培訓等；深耕校園資安實務學習，辦理 AIS3 資安暑期課程以及 EOF、MyFirstCTF 等資安競賽活動，導入業師建立 AIS3 好厲駭培訓制度，透過 AIS3 CLUB 輔導校園資安社群與社團，以提升學生資安素養與強化學生資安實務技術能力，培育資安人才。",
+			"description_en": "",
+			"url": "https://www.facebook.com/AIS3tw"
 		}
 	],
 	"sponsorNavigator": [
@@ -206,7 +214,7 @@
 			"logo": "moda.webp",
 			"title_zh": "數位發展部/moda",
 			"title_en": "",
-			"description_zh": "數發部於2022年8月成立，統籌數位治理與基礎建設，推動通訊、資訊與資安發展，協助公私部門轉型，以提升全民數位韌性為核心，從社會共融、產業與應變三面向打造數位國家。 ",
+			"description_zh": "數發部於 2022 年 8 月成立，統籌數位治理與基礎建設，推動通訊、資訊與資安發展，協助公私部門轉型，以提升全民數位韌性為核心，從社會共融、產業與應變三面向打造數位國家。 ",
 			"description_en": "",
 			"url": "https://moda.gov.tw/"
 		},
@@ -214,7 +222,7 @@
 			"logo": "individual.webp",
 			"title_zh": "個人贊助",
 			"title_en": "Individual Sponsors",
-			"description_zh": "感謝個人贊助者，因為有你們的支持，SITCON 得以持續推動資訊教育與開源精神：<br/><br/>lcngtoi.site、William、中壞、周秉宇、cras4202tw、帥章魚、黃＊哲、蔡旻均、鑽石託管 DiamondHost、Pan、小弘、脆瓜、Mike、C. Y.、Mouse Kuo、陳＊志、Martin、張士宏 Kevinowo、PoHan、房志剛、Terry Chan、康康 HHK、崔殷豪、無敵神奇小馬勇闖 SITCON",
+			"description_zh": "感謝個人贊助者，因為有你們的支持，SITCON 得以持續推動資訊教育與開源精神：<br/><br/>lcngtoi.site、William、中壞、周秉宇、cras4202tw、帥章魚、黃＊哲、蔡旻均、鑽石託管 DiamondHost、Pan、小弘、脆瓜、Mike、C. Y.、Mouse Kuo、陳＊志、Martin、張士宏 Kevinowo、PoHan、房志剛、Terry Chan、康康 HHK、崔殷豪、無敵神奇小馬勇闖 SITCON、就是根蔥、PT、vito1317、康康、PGpenguin72、蘇＊",
 			"description_en": "",
 			"url": "https://sitcon.org/donate"
 		}
